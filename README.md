@@ -1,1 +1,3 @@
 # gitskills
+
+I am really in progress for training Git skills.....
