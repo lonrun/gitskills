@@ -10,10 +10,13 @@ add in branch #issue2
 rebase test in branch #inssue3
 TEST #006
 TEST #006
-
 Test for git pull --rebase
 Remote edit..
 writen after local from remote.
 
 
 remote edit2
+local change.
+
+
+2nd local change
