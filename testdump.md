@@ -12,4 +12,4 @@ TEST #006
 TEST #006
 
 Test for git pull --rebase
-  another action
+Remote edit..
