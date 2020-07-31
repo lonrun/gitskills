@@ -14,3 +14,6 @@ TEST #006
 Test for git pull --rebase
 Remote edit..
 writen after local from remote.
+
+
+remote edit2
