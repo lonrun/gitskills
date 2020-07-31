@@ -11,4 +11,4 @@ rebase test in branch #inssue3
 TEST #006
 TEST #006
 
-
+Test for git pull --rebase
